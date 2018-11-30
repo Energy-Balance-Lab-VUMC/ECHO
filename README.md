@@ -11,6 +11,7 @@ Codebase for Actimetry Core in the Glucagon-Like Peptide-1 Agonist Effects on En
   * aggregate to 60 second level and then run sleep algorithm
   * map the results back to 15 second level data
   * use axis1
+  * use settings for youth
 * Physical Activity
   * use 15 second level files to mark activity levels
   * use vector magnitude
