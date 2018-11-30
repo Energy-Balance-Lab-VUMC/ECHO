@@ -17,7 +17,7 @@ Codebase for Actimetry Core in the Glucagon-Like Peptide-1 Agonist Effects on En
 | /scripts/
    | process_data.R
    | graphs.R
-   | table.R
+   | tables.R
    | statistical_analysis.R
 ```
   
