@@ -6,7 +6,7 @@ Codebase for Actimetry Core in the Glucagon-Like Peptide-1 Agonist Effects on En
   
 * Wear Detection
   * use 15 second level files to detect wear status
-  * use axis1
+  * use vector magnitude
 * Sleep Detection
   * aggregate to 60 second level and then run sleep algorithm
   * map the results back to 15 second level data
